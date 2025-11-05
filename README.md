@@ -4,6 +4,8 @@ This is a custom RP2350B development board designed to match the **Raspberry Pi 
 It keeps the same 40-pin layout for compatibility with existing accessories and code,  
 but upgrades the MCU to the **RP2350B**, offering better performance and features.
 
+![assembled board](image.jpg)
+
 ---
 
 ## Features
