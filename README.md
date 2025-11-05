@@ -1,8 +1,7 @@
 # RP2350B Pico Board
 
 This is a custom RP2350B development board designed to match the **Raspberry Pi Pico** form factor.  
-It keeps the same 40-pin layout for compatibility with existing accessories and code,  
-but upgrades the MCU to the **RP2350B**, offering better performance and features.
+It keeps a similar form factor but is extended by a few pins, in order to break out all 8 analog gpio.
 
 ![assembled board](image.jpg)
 
@@ -27,3 +26,4 @@ but upgrades the MCU to the **RP2350B**, offering better performance and feature
 ---
 
 Designed for experimentation and easy migration from RP2040 to RP2350 as I wanted more analog pins for a project.
+Inspiration taken from  [pico-stretch](https://github.com/jvanderberg/pico-stretch) by [jvanderberg](https://github.com/jvanderberg)
