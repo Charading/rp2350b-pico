@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"J1, J2, J3, J4, J5, J6",Mars_Clean_Connector_01x22_PinHeader_2.54mm,6,Conn_01x32_MountingPin,
+PWR,0805,1,LED,
+R1,R_0805,1,R,
+SW1,SW_TH_Tactile_Omron_B3F-102x,1,RUN,
