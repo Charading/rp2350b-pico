@@ -23,7 +23,16 @@ It keeps a similar form factor but is extended by a few pins, in order to break 
   then regulated down to **3.3V** for the MCU.
 - Fully compatible with the **Raspberry Pi Pico SDK**, **MicroPython**, and **CircuitPython**.
 
+
+### Expansion Board
+I also created a small expansion board since it doesn't follow the exact layout as the original Pico.
+
+![expansion board](image2.jpg)
+
+
 ---
 
 Designed for experimentation and easy migration from RP2040 to RP2350 as I wanted more analog pins for a project.
 Inspiration taken from  [pico-stretch](https://github.com/jvanderberg/pico-stretch) by [jvanderberg](https://github.com/jvanderberg)
+
+---

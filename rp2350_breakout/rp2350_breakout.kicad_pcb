@@ -945,6 +945,18 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x22_P2.54mm_Vertical.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x22_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1362,6 +1374,18 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x22_P2.54mm_Vertical.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x22_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1947,14 +1971,14 @@
 			(size 4 5)
 			(layers "F.Cu" "F.Mask")
 			(zone_connect 2)
-			(uuid "4fbc1041-82c1-438b-b65a-bd5d16410d8c")
+			(uuid "ce887b30-2938-4fd6-a9f6-5fa2e8e7f9b7")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 4 5)
 			(layers "B.Cu" "B.Mask")
 			(zone_connect 2)
-			(uuid "4fbc1041-82c1-438b-b65a-bd5d16410d8c")
+			(uuid "0516b1f6-b645-4e81-bb31-ec92a3d9e63d")
 		)
 		(embedded_fonts no)
 	)
@@ -2364,6 +2388,18 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x22_P2.54mm_Vertical.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x22_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2781,6 +2817,18 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x22_P2.54mm_Vertical.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x22_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3407,14 +3455,14 @@
 			(size 4 5)
 			(layers "F.Cu" "F.Mask")
 			(zone_connect 2)
-			(uuid "00d398fa-caec-4dce-9540-b262d436ee47")
+			(uuid "5c24ffd2-427c-4866-a8d3-784d5b6b25ff")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 4 5)
 			(layers "B.Cu" "B.Mask")
 			(zone_connect 2)
-			(uuid "00d398fa-caec-4dce-9540-b262d436ee47")
+			(uuid "31227b86-2c52-4e16-a7f0-6e07ec1be32f")
 		)
 		(embedded_fonts no)
 	)
@@ -4037,14 +4085,14 @@
 			(size 4 5)
 			(layers "F.Cu" "F.Mask")
 			(zone_connect 2)
-			(uuid "13a0923b-b8c8-434e-9ee5-25c1dbb9479d")
+			(uuid "02e4dadc-e722-4034-836e-9d0b617ca0c2")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 4 5)
 			(layers "B.Cu" "B.Mask")
 			(zone_connect 2)
-			(uuid "13a0923b-b8c8-434e-9ee5-25c1dbb9479d")
+			(uuid "29b38aa2-5f0a-414a-8b77-2ea78d0d6325")
 		)
 		(embedded_fonts no)
 	)
@@ -4353,14 +4401,14 @@
 			(size 4 5)
 			(layers "F.Cu" "F.Mask")
 			(zone_connect 2)
-			(uuid "d6e43d0f-615c-4572-942b-24152f902ee1")
+			(uuid "0c1138dc-1082-4136-b174-8c33ee33cc85")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 4 5)
 			(layers "B.Cu" "B.Mask")
 			(zone_connect 2)
-			(uuid "d6e43d0f-615c-4572-942b-24152f902ee1")
+			(uuid "9afae01e-6626-4668-8ab7-001639f1eeaa")
 		)
 		(embedded_fonts no)
 	)
